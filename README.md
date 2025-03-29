@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm interested in bridging the gap between genomics and ecology for more effective conservation.
+I'm interested in phylogenetics, landscape genomics, and movement ecology.
 <!--
 **PantheraPaulus/PantheraPaulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
