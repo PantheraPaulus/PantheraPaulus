@@ -4,4 +4,4 @@ I study how organisms adapt to changing environments across scales — from sing
 
 I also help organizations manage scientific data efficiently and turn it into evidence for effective conservation.
 
-I work with technologies at the frontier of biological research — from sequencing to telemetry — to test theories about how the natural world works.
+I work with a wide array of technologies — from sequencing to telemetry — to test theories about how the natural world works.
