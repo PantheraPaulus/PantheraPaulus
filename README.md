@@ -4,4 +4,4 @@ I study how organisms adapt to changing environments across scales - from single
 
 I also help organizations manage scientific data efficiently and turn it into evidence for effective conservation.
 
-I'm passionate about combining technologies - from sequencing to telemetry - to test theories about how the natural world works.
+I am passionate about combining technologies - from sequencing to telemetry - to test theories about how the natural world works.
